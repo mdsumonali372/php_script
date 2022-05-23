@@ -1,0 +1,20 @@
+
+ Step 1# Upload Source Files
+
+ Step 2# Create Database
+
+ Step 3# Import Database to phpMyAdmin
+
+ Step 4# Change Database Information on inc>config.inc.php
+
+ Step 5# Change Website URL on phpMyAdmin setting>website url
+
+
+ If you face any problem to install this script, please email us at: nullphpscript@gmail.com
+
+
+  Admin Login
+ ------------------
+  Login URL: https://website/admin
+  Username: admin
+  Password: Admin2022#QXV
